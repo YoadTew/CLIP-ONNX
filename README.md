@@ -10,7 +10,7 @@ RuCLIP Example
 ## Usage
 Install clip-onnx module and requirements first. Use this trick
 ```python3
-!pip install git+https://github.com/Lednik7/CLIP-ONNX.git
+!pip install git+https://github.com/YoadTew/CLIP-ONNX.git
 !pip install git+https://github.com/openai/CLIP.git
 !pip install onnxruntime-gpu
 ```
